@@ -1,2 +1,2 @@
 # codespace
-A template for a blank code space
+A template for a blank codespace
