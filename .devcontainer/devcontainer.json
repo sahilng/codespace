@@ -1,14 +1,12 @@
 {
-    "name": "http-server",
+    "name": "Node.js Server",
     "build": {
-        "dockerfile": "../Dockerfile"
+      "dockerfile": "Dockerfile"
     },
-    "runArgs": [
-        "-p", "8080:8080"
-    ],
-    "settings": {
-        "terminal.integrated.shell.linux": "/bin/bash"
+    "settings": { 
+      "terminal.integrated.shell.linux": "/bin/bash"
     },
-    "forwardPorts": [8080],
-    "postCreateCommand": "npm install"
-}
+    "postCreateCommand": "npm install",
+    "forwardPorts": [3000],
+    "extensions": ["dbaeumer.vscode-eslint"]
+  }  
