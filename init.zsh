@@ -28,4 +28,4 @@ echo "Querying Public URL: $public_url"
 # Start the pingpong application
 pingpong $public_url
 
-echo "Your pong-server is now running. Use 'gh cs delete' to delete the Codespace if not in use to avoid charges."
+echo "Use 'gh cs delete' to delete the Codespace if not in use to avoid charges."
