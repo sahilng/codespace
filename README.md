@@ -1,5 +1,5 @@
 # codespace
-A blank repository to use as an empty codespace
+A starter repository to use for codespaces
 
 ## Branches
 
