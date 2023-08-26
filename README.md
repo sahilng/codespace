@@ -1,2 +1,2 @@
 # codespace
-A template for a blank codespace
+A blank repository to use as an empty codespace
