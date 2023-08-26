@@ -6,7 +6,7 @@
     "settings": { 
       "terminal.integrated.shell.linux": "/bin/bash"
     },
-    "postCreateCommand": "npm install",
+    "postCreateCommand": "npm install && nohup npm start &",
     "forwardPorts": [3000],
     "extensions": ["dbaeumer.vscode-eslint"]
   }  
