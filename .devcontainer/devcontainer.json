@@ -5,5 +5,10 @@
     "extensions": [
         "ms-toolsai.jupyter",
         "ms-python.python"
-    ]
+    ],
+    "features": {
+        "ghcr.io/devcontainers/features/sshd:1": {
+            "version": "latest"
+        }
+    }    
 }
