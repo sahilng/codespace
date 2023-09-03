@@ -4,5 +4,6 @@
     "forwardPorts": [8888],
     "settings": { 
         "terminal.integrated.shell.linux": "/bin/bash"
-    }
+    },
+    "extensions": ["ms-toolsai.jupyter"]
 }
