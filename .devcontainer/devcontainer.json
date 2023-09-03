@@ -5,5 +5,5 @@
     "settings": { 
         "terminal.integrated.shell.linux": "/bin/bash"
     },
-    "extensions": ["ms-toolsai.jupyter"]
+    "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
 }
