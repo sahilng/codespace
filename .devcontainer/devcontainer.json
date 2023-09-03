@@ -1,9 +1,9 @@
 {
-    "name": "Pandas Jupyter Notebook",
+    "name": "jupyter-notebook",
     "dockerFile": "Dockerfile",
     "forwardPorts": [8888],
-    "settings": { 
-        "terminal.integrated.shell.linux": "/bin/bash"
-    },
-    "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
+    "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+    ]
 }
