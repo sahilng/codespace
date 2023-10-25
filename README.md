@@ -1,4 +1,4 @@
-A python:latest based coding environment
+A python:latest based running sample flask app
 
 `docker build -t codespace-flask -f .devcontainer/Dockerfile . `
 
