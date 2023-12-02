@@ -1,8 +1,8 @@
 {
-  "packages": ["python@latest"],
+  "packages": [],
   "shell": {
     "init_hook": [
-      "echo 'Welcome to devbox!' > /dev/null"
+      "echo 'Welcome to devbox!'"
     ],
     "scripts": {
       "test": [
