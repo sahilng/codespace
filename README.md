@@ -1,17 +1,3 @@
-# codespace
-A starter repository to use for codespaces
+### devbox
 
-## Branches
-
-### pong-server
-A sample node server
-
-### jupyter-notebook
-A sample jupyter environment and optional server
-
-### python
-A python:latest based coding environment
-
-
-### flask
-A running sample flask app
+A sample folder to play with [devbox](devbox.sh)
