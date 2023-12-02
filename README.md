@@ -14,7 +14,7 @@ A python:latest based coding environment
 
 ### devbox
 
-A sample folder to play with [devbox](https://github.com/jetpack-io/devboxh)
+A sample folder to play with jetpack-io/devbox
 
 ### flask
 A running sample flask app
